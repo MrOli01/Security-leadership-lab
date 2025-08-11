@@ -74,6 +74,8 @@ Definir cabeçalhos HTTP adequados impede que sua aplicação seja embutida em f
 add_header X-Frame-Options "SAMEORIGIN";
 add_header Content-Security-Policy "frame-ancestors 'self'";
 
+```
+
 ### 3. Benefícios do uso dos cabeçalhos
 
 - Bloqueio eficiente de ataques de clickjacking.  
