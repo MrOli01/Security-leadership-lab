@@ -8,6 +8,7 @@ Um atacante insere código SQL malicioso em campos de entrada, que é concatenad
 
 ```sql
 SELECT * FROM users WHERE username = 'admin' OR '1'='1';
+```
 
 ## Impacto
 
