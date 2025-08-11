@@ -66,7 +66,3 @@ Um WAF pode atuar como uma camada adicional de defesa, filtrando e bloqueando re
 - Pode gerar falsos positivos, exigindo tuning constante.
 
 ---
-
-Essa seção prática mostra sua capacidade de conectar teoria com ações concretas — algo muito valorizado em liderança e gestão de segurança.
-
-Quer que eu te ajude a montar seções práticas para outras vulnerabilidades também?
